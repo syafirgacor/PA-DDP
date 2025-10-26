@@ -149,8 +149,11 @@ Flowchart
 
 ## 1.Menu Awal
 ## 2.Menu Admin
+<img width="4212" height="1070" alt="MENU ADMIN" src="https://github.com/user-attachments/assets/e709ac64-0208-43cf-828a-b5aaf86417a3" />
 ## 3.Menu User
+<img width="3672" height="3092" alt="MENU USER 2 rev 3" src="https://github.com/user-attachments/assets/9c1c721a-7737-463b-ac97-f4ec6da2ebc8" />
 ## 4.Menu Register
+<img width="326" height="792" alt="reg" src="https://github.com/user-attachments/assets/e613b875-ef98-407f-8498-95cfd28c37c9" />
 ## 5.Menu Keluar
 
 

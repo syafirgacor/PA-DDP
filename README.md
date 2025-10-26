@@ -148,10 +148,23 @@ Screenshot:* `![return-success](docs/screens/return-success.png)`
 Flowchart
 
 ## 1.Menu Awal
+<img width="1457" height="972" alt="MENU UTAMA" src="https://github.com/user-attachments/assets/b823529a-d7bf-4a82-bf4a-92773e29517d" />
+
 ## 2.Menu Admin
+
+<img width="4212" height="1070" alt="MENU ADMIN" src="https://github.com/user-attachments/assets/242181f4-f22e-4592-9a37-dafc61d68405" />
+
 ## 3.Menu User
+
+<img width="3672" height="3092" alt="MENU USER 2 rev 3" src="https://github.com/user-attachments/assets/da795b46-55de-4d10-80ed-ab3f90bba50c" />
+
 ## 4.Menu Register
+
+<img width="326" height="792" alt="reg" src="https://github.com/user-attachments/assets/d6ebac56-39be-4be9-a016-f5a007ed9655" />
+
 ## 5.Menu Keluar
+
+<img width="232" height="62" alt="Keluar" src="https://github.com/user-attachments/assets/85582107-a872-42fc-a423-77bbed0f9e20" />
 
 
 ```## 🙌 Kredit

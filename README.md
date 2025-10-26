@@ -38,7 +38,7 @@
 
 ---
 
-### Logika Sewa/Kembali (ringkas)
+### Logika Sewa/Kembali 
 - **Sewa**: cek ketersediaan & stok; pilih pembayaran → sukses → **stok−1**; bila stok < 1 → **status=Disewa**; catat transaksi (tanggal pinjam & estimasi kembali)
 - **Kembalikan**: pilih transaksi aktif → **stok+1** → bila stok > 0 → **status=Tersedia**; perbarui `tanggal_kembali` & `status=Dikembalikan`
 
